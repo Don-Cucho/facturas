@@ -1,0 +1,5 @@
+[{"id": 1, "descripcion": "Aceite", "precio": 3.9, "stock": 23.0}, 
+{"id": 2, "descripcion": "Chicle", "precio": 23, "stock": 10000.0}, 
+{"id": 3, "descripcion": "Mortadela", "precio": 2.5, "stock": 700}, 
+{"id": 4, "descripcion": "Arroz", "precio": 23, "stock": 10000.0}, 
+{"id": 6, "descripcion": "Galleta", "precio": 2.0, "stock": 34.0}]

@@ -1,0 +1,19 @@
+[{"factura": 1,"dni": "0987654321", "Fecha": "2024-04-22", "cliente": "Daniel Vera", "subtotal": 10.0, "descuento": 1.0, "iva": 1.08, "total": 10.08, "detalle": 
+[{"poducto": "aceite", "precio": 2.0, "cantidad": 2}, {"poducto": "Cocacola", "precio": 1.5, "cantidad": 4}]}, 
+{"factura": 2, "dni": "0914192144", "Fecha": "2024-04-22", "cliente": "Dayanna Vera", "subtotal": 34.0, "descuento": 3.4000000000000004, "iva": 3.67, "total": 34.27, "detalle": 
+[{"poducto": "Mortadela", "precio": 2.5, "cantidad": 4}, {"poducto": "aceite", "precio": 2.0, "cantidad": 6}, {"poducto": "Cocacola", "precio": 1.5, "cantidad": 8}]}, 
+{"factura": 3, "dni": "0987654321","Fecha": "2024-04-22", "cliente": "Daniel Vera", "subtotal": 16.0, "descuento": 1.6, "iva": 1.73, "total": 16.13, "detalle": 
+[{"poducto": "aceite", "precio": 2.0, "cantidad": 2}, {"poducto": "Cocacola", "precio": 1.5, "cantidad": 8}]},
+{"factura": 4, "dni": "0987654321","Fecha": "2024-04-22", "cliente": "Daniel Vera", "subtotal": 88.0, "descuento": 8.8, "iva": 9.5, "total": 88.7, "detalle": 
+[{"poducto": "Mortadela", "precio": 2.5, "cantidad": 22}, {"poducto": "Cocacola", "precio": 1.5, "cantidad": 22}]},
+{"factura": 6, "dni": "1234567800","Fecha": "2024-04-30", "cliente": "Cucho Romero", "subtotal": 10.0, "descuento": 1.0, "iva": 1.08, "total": 10.08, "detalle":
+[{"poducto": "Mortadela", "precio": 2.5, "cantidad": 4}]}, 
+{"factura": 7, "dni": "1234567800","Fecha": "2024-04-30", "cliente": "Cucho Romero", "subtotal": 46, "descuento": 4.6000000000000005, "iva": 4.97, "total": 46.37, "detalle": 
+[{"poducto": "Chicle", "precio": 23, "cantidad": 2}]}, 
+{"factura": 8, "dni": "1234567800", "Fecha": "2024-04-30", "cliente": "Cucho Romero", "subtotal": 115, "descuento": 11.5, "iva": 12.42, "total": 115.92, "detalle": 
+[{"poducto": "Arroz", "precio": 23, "cantidad": 5}]},
+{"factura": 9, "dni": "0987654321", "Fecha": "2024-04-22", "cliente": "Daniel Vera", "subtotal": 115, "descuento": 11.5, "iva": 12.42, "total": 115.92, "detalle": 
+[{"poducto": "Arroz", "precio": 23, "cantidad": 5}]}
+
+
+]
